@@ -11,6 +11,7 @@ A job posting web application built with ASP.NET Core MVC for managing and searc
   - Create, read, update, and delete job postings
   - Responsive design with Bootstrap
   - Search functionality
+<img width="1365" height="397" alt="image" src="https://github.com/user-attachments/assets/81200d03-a35d-4955-b0f1-b14afe61b976" />
 
 - **User Authentication**
   - Role-based authorisation
